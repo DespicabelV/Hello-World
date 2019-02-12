@@ -33,7 +33,7 @@ namespace Hello_World
             //Hello World
             Console.Write(hello);
             Console.WriteLine("The date is " + Date.ToLongDateString());
-           
+
             //String and int
             Console.Write("This is all on ");
             Console.Write("one line \n");
